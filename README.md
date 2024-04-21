@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant4713&label=Profile%20views&color=0e75b6&style=flat" alt="nishant4713" /> </p>
 
 - 🔭 I’m currently working on **React Projects**
