@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nishant Kumar
 #### React Developer and WEB dev
 
-<img width="1834" alt="Make your README" src="https://github.com/nishant4713/nishant4713/assets/108873242/f06af1aa-c988-400c-8a60-188893bc6a8d">
+<img width="1000" alt="Make your README" src="https://github.com/nishant4713/nishant4713/assets/108873242/f06af1aa-c988-400c-8a60-188893bc6a8d">
 
  I'm Nishant Kumar—a React developer and web development enthusiast. With a flair for crafting immersive user experiences and a passion for innovation, I thrive in the dynamic realm of front-end development. Seeking collaborative opportunities to push boundaries and create impactful digital solutions. Let's connect and build something extraordinary together!
 
