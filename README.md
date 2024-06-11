@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant4713&label=Profile%20views&color=0e75b6&style=flat" alt="nishant4713" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Frontend,React,HTML,CSS**
+- 💬 Ask me about **Frontend,React,HTML,CSS,NodeJS,Express.js,MongoDB**
 
 - 📫 How to reach me **nishantd5117@gmail.com**
 
