@@ -1,6 +1,6 @@
 # Hi Developers 👋
 
-I’m **Nishant Kumar**, a passionate **Backend Java Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)** and **Design Patterns**. I take pride in problem-solving and building scalable solutions.
+I’m **Nishant Kumar**, a passionate **Backend Java Developer** with expertise in **Building High-Performance Backend Solutions**. I take pride in problem-solving and building scalable solutions.
 
 ## 🚀 Technologies & Tools
 
