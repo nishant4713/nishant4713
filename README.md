@@ -18,5 +18,4 @@ I’m **Nishant Kumar**, a passionate **Backend Java Developer** with expertise 
   
 ---
 
-**"Strive for progress, not perfection."**  
-_— Nishant Kumar_
+
