@@ -5,7 +5,7 @@ I’m **Nishant Kumar**, a passionate **Backend Java Developer** with expertise 
 ## 🚀 Technologies & Tools
 
 ### Backend Skills
-- **Languages**: Java, C++, Spring Framework, Spring Boot, Hibernate, Microservices
+- **Frameworks & Languages**: Java, C++, Spring Framework, Spring Boot, Hibernate, Microservices
 - **APIs**: RESTful APIs
 - **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
 
